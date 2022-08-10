@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/campingaz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/campingaz-gluehstrumpf-groesze-s-campingaz-5637244881.jpg":"\u002Fassets\u002Fimages\u002Fcampingaz-gluehstrumpf-groesze-s-campingaz-5637244881.webp"}}],fetch:{},mutations:void 0});

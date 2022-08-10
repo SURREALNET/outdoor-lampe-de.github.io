@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/soto", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/soto-ersatzglas-compact-outdoor-lampe-soto-5637216597.jpg":"\u002Fassets\u002Fimages\u002Fsoto-ersatzglas-compact-outdoor-lampe-soto-5637216597.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/exped", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/exped-widget-luftpumpe-exped-5637921137.jpg":"\u002Fassets\u002Fimages\u002Fexped-widget-luftpumpe-exped-5637921137.webp"}}],fetch:{},mutations:void 0});
