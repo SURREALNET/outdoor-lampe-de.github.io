@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/fire-maple", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/fire-maple-orange-gaslampe-laterne-fire-maple-5637895373.jpg":"\u002Fassets\u002Fimages\u002Ffire-maple-orange-gaslampe-laterne-fire-maple-5637895373.webp"}}],fetch:{},mutations:void 0});
