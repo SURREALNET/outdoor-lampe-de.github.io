@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "outdoor-lampe.de",
+    "hostname": "https://outdoor-lampe.de/",
+    "email": "outdoor-lampe.de@surrealnetworks.io",
+    "organization": "outdoor-lampe.de",
+    "logoText": "Outdoor Lampen",
+    "title": "Outdoor Lampen",
+    "subline": "Finde die perfekte Outdoor Lampe",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,120 +14,137 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
+    "popularProducts": [
+        "5637245453",
+        "5637940539",
+        "5637940546"
     ],
+    "winnerProducts": [
+        "5637853518",
+        "5637945657",
+        "5637894583"
+    ],
+    "featuredCategories": [],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/outdoor-lampe.de",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
+    "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Wassersport",
-        "featureText": "feature text jo",
+        "mainKeyword": "Outdoor Lampe",
+        "featureText": "<p class=\"mb-4\">Outdoor Lampen erhellen vielfältige Einsatzgebiete, wie etwa als Beleuchtung des Zelts oder Camps, als Lichtquelle im Garten oder als Außenbeleuchtung mit Bewegungssensor. Sie sind robust und wetterfest und eignen sich somit auch für den Outdoor-Bereich.</p><p>Schickes Design, innovativ und exklusive Marken.</p>",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "",
-            "texts": [{
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
-                }
-            ]
+            "title": "Outdoor Lampen",
+            "metaDescription": "Bei uns findst du eine große Auswahl an qualitativen und leistungsstarken Outdoor Lampen wie Taschenlampen, Stirnlampen oder Laternen zu günstigen Preisen.",
+            "robots": "index, follow"
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Outdoor Lampen Shop",
+            "metaDescription": "Hier findst du die besten Angebote von den beliebtesten Online Shops. Kaufe jetzt deine Outdoor Lampe und spare Geld. Wir haben die besten Angebote für dich.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Alle Hersteller von Outdoor Lampen auf einen Blick.",
+            "metaDescription": "Du bist auf der Suche nach einem namenhaften Hersteller von Outdoor Lampen? Wir haben hier die besten für dich rausgesucht. Top Qualität. Top Preise. Garantie.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "defaultTitle": "$PRODUKT | Outdoor Lampe",
+        "defaultMetaDescription": "Wir testen die $PRODUKT vom $HERSTELLER in unserem Outdoor Lampen Test. Hier findest du alle wichtigen Informationen und Erfahrungen.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "defaultTitle": "$KATEGORIE",
+        "defaultMetaDescription": "Entdecken Sie unsere große Auswahl an $KATEGORIE. Top-Marken ✓ Günstige Preise ✓ Kauf auf Rechnung möglich ✓ Kostenlose Retouren.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "outdoor lampe",
+                "slug": "outdoor lampe",
+                "name": "outdoor lampe",
+                "seo": {
+                    "title": "Eine Lampe für deinen Outdoor Trip günstig kaufen",
+                    "metaDescription": "Jetzt stöbern und günstige Preise sichern. Es wartet eine große Auswahl an Produkten auf dich. Kaufe jetzt deine Outdoor Lampe und spare Geld.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "defaultTitle": "Stirnlampen, Taschenlampen u.v.m. günstig kaufen von $HERSTELLER",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER. Beste Qualität zum fairen Preis. Vielfältig einsetzbar. Langlebig. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "black diamond",
+                "name": "black diamond",
+                "seo": {
+                    "title": "Black Diamond Lampen online kaufen | Spezielle Angebote",
+                    "metaDescription": "Alle Produkte von Black Diamond im Überblick und für jeden Anlass. Bringe Licht ins Dunkle mit den leistungsstarken Stirnlampen und Taschenlampen.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "petzl",
+                "name": "petl",
+                "seo": {
+                    "title": "Produkte von Petzl jetzt günstig kaufen",
+                    "metaDescription": "Hier findest du sämtliche Produkte von Petzl. Anbieter für die beste Ausrüstung in der freien Natur. Hochwertig ✓ Schneller Versand ✓ Garantie ✓",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
-            "title": "Start",
+    "checklist": [
+        "Angenehm",
+        "Robust",
+        "Innovativ",
+        "Leicht",
+        "Leistungsstark",
+        "Lange Leuchtdauer",
+        "Super Hell",
+        "Hochwertige Verarbeitung"
+    ],
+    "navigationLinks": [
+        {
+            "title": "Home",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Outdoor-Lampe.de",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Outdoor-Lampe.de - Tasche Online Shop",
             "publish": true
         },
         {
             "title": "Marken",
+            "publish": true,
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
-            "publish": true
+            "linkTitle": "Outdoor Lampen Hersteller"
         },
         {
             "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
             "publish": false
         }
     ]
