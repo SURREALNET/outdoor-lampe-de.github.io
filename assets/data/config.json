@@ -41,7 +41,40 @@
         "index": {
             "title": "Outdoor Lampen",
             "metaDescription": "Bei uns findst du eine große Auswahl an qualitativen und leistungsstarken Outdoor Lampen wie Taschenlampen, Stirnlampen oder Laternen zu günstigen Preisen.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor-Lampe",
+                        "text": "Outdoor-Lampe ist Ihr Online-Shop für hochwertige Lampen für den Außenbereich. Unser Sortiment umfasst eine breite Auswahl an Laternen und Fackeln, Stirnlampen, Traillampen und Zusatzbeleuchtung, Taschenlampen sowie Zubehör für Elektrolampen und Laternen. Ob Sie auf der Suche nach einer Lampe für den nächsten Campingausflug oder einer Beleuchtung für Ihren Garten sind, bei uns finden Sie garantiert das Richtige. Wir legen großen Wert auf Qualität und Funktionalität unserer Produkte. Unsere Lampen sind robust und langlebig, um auch in anspruchsvollen Umgebungen zu bestehen. Darüber hinaus bieten wir Ihnen eine breite Palette an Stilen und Designs, um Ihren persönlichen Geschmack zu treffen. Bei Outdoor-Lampe haben Sie die Möglichkeit, bequem und einfach von zu Hause aus einzukaufen. Stöbern Sie in Ruhe in unserem Sortiment und finden Sie die perfekte Lampe für Ihre Bedürfnisse. Sollten Sie Fragen zu unseren Produkten haben, steht Ihnen unser freundlicher Kundenservice jederzeit zur Verfügung. Verleihen Sie Ihren Außenbereichen mit einer hochwertigen Outdoor-Lampe eine neue Atmosphäre und bestellen Sie noch heute bei uns. Wir freuen uns darauf, Ihnen weiterhelfen zu dürfen."
+                    },
+                    {
+                        "title": "Laternen und Fackeln",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/laternen-und-fackeln/\" title=\"Laternen und Fackeln\">Laternen und Fackeln</a> für jede Outdoor-Aktivität. Ob Camping, Wandern oder Gartenfeiern, wir haben die richtige Beleuchtung für Sie. Unsere Laternen und Fackeln sind langlebig und robust, damit Sie sich auf Ihr Abenteuer konzentrieren können. Wählen Sie aus verschiedenen Farben, Größen und Designs, um Ihren Bedürfnissen gerecht zu werden. Bestellen Sie noch heute Ihre Outdoor-Lampe."
+                    },
+                    {
+                        "title": "Stirnlampen",
+                        "text": "Erleuchten Sie Ihren Weg mit unserer Auswahl an <a href=\"/kategorie/stirnlampen/\" title=\"Stirnlampen\">Stirnlampen</a>. Ob bei Nacht oder bei schlechten Sichtverhältnissen, unsere Stirnlampen bieten Ihnen die Beleuchtung, die Sie benötigen. Wir haben Modelle mit verschiedenen Leuchtstärken und Funktionen, um Ihren Anforderungen gerecht zu werden. Unsere Stirnlampen sind bequem und leicht, sodass Sie sich voll auf Ihre Aktivitäten konzentrieren können. Bestellen Sie jetzt Ihre Stirnlampe."
+                    },
+                    {
+                        "title": "Traillampen und Zusatzbeleuchtung",
+                        "text": "Erhöhen Sie Ihre Sichtbarkeit und Sicherheit bei Nacht mit unseren <a href=\"/kategorie/traillampen-und-zusatzbeleuchtung/\" title=\"Traillampen und Zusatzbeleuchtung\">Traillampen und Zusatzbeleuchtung</a>en. Unsere Produkte sind speziell für Outdoor-Aktivitäten wie Radfahren, Wandern oder Joggen entwickelt und bieten Ihnen eine zuverlässige Beleuchtung. Wählen Sie aus verschiedenen Farben, Größen und Funktionen, um Ihren Bedürfnissen gerecht zu werden. Bestellen Sie jetzt Ihre Traillampe und Zusatzbeleuchtung, um Ihre nächste Outdoor-Aktivität sicher zu genießen."
+                    },
+                    {
+                        "title": "Taschenlampen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/taschenlampen/\" title=\"Taschenlampen\">Taschenlampen</a> für jeden Bedarf. Ob für den täglichen Gebrauch oder für Outdoor-Abenteuer, unsere Taschenlampen bieten Ihnen eine starke und zuverlässige Beleuchtung. Wir haben Modelle mit verschiedenen Leuchtstärken, Größen und Funktionen, damit Sie die perfekte Taschenlampe für Ihre Bedürfnisse finden. Unsere Taschenlampen sind langlebig und robust, damit Sie sich auf Ihre Aktivitäten konzentrieren können. Bestellen Sie noch heute Ihre Taschenlampe."
+                    },
+                    {
+                        "title": "Zubehör Elektrolampen",
+                        "text": "Verbessern Sie Ihre Elektrolampen mit unserem breiten Sortiment an Zubehör. Wir bieten Ihnen Ersatzteile, Batterien und Ladegeräte, damit Sie Ihre Elektrolampen immer einsatzbereit halten können. Unsere Zubehörteile sind kompatibel mit den meisten Elektrolampen-Modellen und garantieren eine lange Lebensdauer. Bestellen Sie jetzt Ihr Zubehör für Elektrolampen, um Ihre Beleuchtung auf dem neuesten Stand zu halten."
+                    },
+                    {
+                        "title": "Zubehör Laternen",
+                        "text": "Verbessern Sie Ihre Laternen mit unserem breiten Sortiment an Zubehör. Wir bieten Ihnen Ersatzteile, Kerzen und Brennstoffe, damit Sie Ihre Laterne immer einsatzbereit halten können. Unsere Zubehörteile sind kompatibel mit den meisten Laterne-Modellen und garantieren eine lange Lebensdauer. Bestellen Sie jetzt Ihr Zubehör für Laternen, um Ihre Beleuchtung auf dem neuesten Stand zu halten."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Outdoor Lampen Shop",
