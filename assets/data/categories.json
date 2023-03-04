@@ -1,1 +1,44 @@
-[{"key": "laternen und fackeln", "name": "Laternen und Fackeln", "slug": "laternen-und-fackeln", "productCategory": "Laternen und Fackeln", "subCategories": []}, {"key": "stirnlampen", "name": "Stirnlampen", "slug": "stirnlampen", "productCategory": "Stirnlampen", "subCategories": []}, {"key": "traillampen und zusatzbeleuchtung", "name": "Traillampen und Zusatzbeleuchtung", "slug": "traillampen-und-zusatzbeleuchtung", "productCategory": "Traillampen und Zusatzbeleuchtung", "subCategories": []}, {"key": "taschenlampen", "name": "Taschenlampen", "slug": "taschenlampen", "productCategory": "Taschenlampen", "subCategories": []}, {"key": "zubehör elektrolampen", "name": "Zubehör Elektrolampen", "slug": "zubehoer-elektrolampen", "productCategory": "Zubehör Elektrolampen", "subCategories": []}, {"key": "zubehör laternen", "name": "Zubehör Laternen", "slug": "zubehoer-laternen", "productCategory": "Zubehör Laternen", "subCategories": []}]
+[
+    {
+        "key": "laternen und fackeln",
+        "name": "Laternen und Fackeln",
+        "slug": "laternen-und-fackeln",
+        "productCategory": "Laternen und Fackeln",
+        "subCategories": []
+    },
+    {
+        "key": "stirnlampen",
+        "name": "Stirnlampen",
+        "slug": "stirnlampen",
+        "productCategory": "Stirnlampen",
+        "subCategories": []
+    },
+    {
+        "key": "traillampen und zusatzbeleuchtung",
+        "name": "Traillampen und Zusatzbeleuchtung",
+        "slug": "traillampen-und-zusatzbeleuchtung",
+        "productCategory": "Traillampen und Zusatzbeleuchtung",
+        "subCategories": []
+    },
+    {
+        "key": "taschenlampen",
+        "name": "Taschenlampen",
+        "slug": "taschenlampen",
+        "productCategory": "Taschenlampen",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör elektrolampen",
+        "name": "Zubehör Elektrolampen",
+        "slug": "zubehoer-elektrolampen",
+        "productCategory": "Zubehör Elektrolampen",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör laternen",
+        "name": "Zubehör Laternen",
+        "slug": "zubehoer-laternen",
+        "productCategory": "Zubehör Laternen",
+        "subCategories": []
+    }
+]
