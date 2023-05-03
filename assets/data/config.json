@@ -1,184 +1,220 @@
 {
-    "configIsReady": true,
-    "domain": "outdoor-lampe.de",
-    "hostname": "https://www.outdoor-lampe.de",
-    "email": "outdoor-lampe.de@surrealnetworks.io",
-    "organization": "outdoor-lampe.de",
-    "logoText": "Outdoor Lampen",
-    "title": "Outdoor Lampen",
-    "subline": "Finde die perfekte Outdoor Lampe",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "5637245453",
-        "5637940539",
-        "5637940546"
-    ],
-    "winnerProducts": [
-        "5637853518",
-        "5637945657",
-        "5637894583"
-    ],
-    "featuredCategories": [],
-    "socialMediaAccounts": [
-        {
-            "name": "Twitter",
-            "link": "https://www.twitter.com/outdoor-lampe.de",
-            "iconClass": "fab fa-twitter",
-            "published": false
-        }
-    ],
-    "imageQuality": 90,
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Outdoor Lampe",
-        "featureText": "<p class=\"mb-4\">Outdoor Lampen erhellen vielfältige Einsatzgebiete, wie etwa als Beleuchtung des Zelts oder Camps, als Lichtquelle im Garten oder als Außenbeleuchtung mit Bewegungssensor. Sie sind robust und wetterfest und eignen sich somit auch für den Outdoor-Bereich.</p><p>Schickes Design, innovativ und exklusive Marken.</p>",
-        "index": {
-            "title": "Outdoor Lampen",
-            "metaDescription": "Bei uns findst du eine große Auswahl an qualitativen und leistungsstarken Outdoor Lampen wie Taschenlampen, Stirnlampen oder Laternen zu günstigen Preisen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Outdoor-Lampe",
-                        "text": "Outdoor-Lampe ist Ihr Online-Shop für hochwertige Lampen für den Außenbereich. Unser Sortiment umfasst eine breite Auswahl an Laternen und Fackeln, Stirnlampen, Traillampen und Zusatzbeleuchtung, Taschenlampen sowie Zubehör für Elektrolampen und Laternen. Ob Sie auf der Suche nach einer Lampe für den nächsten Campingausflug oder einer Beleuchtung für Ihren Garten sind, bei uns finden Sie garantiert das Richtige. Wir legen großen Wert auf Qualität und Funktionalität unserer Produkte. Unsere Lampen sind robust und langlebig, um auch in anspruchsvollen Umgebungen zu bestehen. Darüber hinaus bieten wir Ihnen eine breite Palette an Stilen und Designs, um Ihren persönlichen Geschmack zu treffen. Bei Outdoor-Lampe haben Sie die Möglichkeit, bequem und einfach von zu Hause aus einzukaufen. Stöbern Sie in Ruhe in unserem Sortiment und finden Sie die perfekte Lampe für Ihre Bedürfnisse. Sollten Sie Fragen zu unseren Produkten haben, steht Ihnen unser freundlicher Kundenservice jederzeit zur Verfügung. Verleihen Sie Ihren Außenbereichen mit einer hochwertigen Outdoor-Lampe eine neue Atmosphäre und bestellen Sie noch heute bei uns. Wir freuen uns darauf, Ihnen weiterhelfen zu dürfen."
-                    },
-                    {
-                        "title": "Laternen und Fackeln",
-                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/laternen-und-fackeln/\" title=\"Laternen und Fackeln\">Laternen und Fackeln</a> für jede Outdoor-Aktivität. Ob Camping, Wandern oder Gartenfeiern, wir haben die richtige Beleuchtung für Sie. Unsere Laternen und Fackeln sind langlebig und robust, damit Sie sich auf Ihr Abenteuer konzentrieren können. Wählen Sie aus verschiedenen Farben, Größen und Designs, um Ihren Bedürfnissen gerecht zu werden. Bestellen Sie noch heute Ihre Outdoor-Lampe."
-                    },
-                    {
-                        "title": "Stirnlampen",
-                        "text": "Erleuchten Sie Ihren Weg mit unserer Auswahl an <a href=\"/kategorie/stirnlampen/\" title=\"Stirnlampen\">Stirnlampen</a>. Ob bei Nacht oder bei schlechten Sichtverhältnissen, unsere Stirnlampen bieten Ihnen die Beleuchtung, die Sie benötigen. Wir haben Modelle mit verschiedenen Leuchtstärken und Funktionen, um Ihren Anforderungen gerecht zu werden. Unsere Stirnlampen sind bequem und leicht, sodass Sie sich voll auf Ihre Aktivitäten konzentrieren können. Bestellen Sie jetzt Ihre Stirnlampe."
-                    },
-                    {
-                        "title": "Traillampen und Zusatzbeleuchtung",
-                        "text": "Erhöhen Sie Ihre Sichtbarkeit und Sicherheit bei Nacht mit unseren <a href=\"/kategorie/traillampen-und-zusatzbeleuchtung/\" title=\"Traillampen und Zusatzbeleuchtung\">Traillampen und Zusatzbeleuchtung</a>en. Unsere Produkte sind speziell für Outdoor-Aktivitäten wie Radfahren, Wandern oder Joggen entwickelt und bieten Ihnen eine zuverlässige Beleuchtung. Wählen Sie aus verschiedenen Farben, Größen und Funktionen, um Ihren Bedürfnissen gerecht zu werden. Bestellen Sie jetzt Ihre Traillampe und Zusatzbeleuchtung, um Ihre nächste Outdoor-Aktivität sicher zu genießen."
-                    },
-                    {
-                        "title": "Taschenlampen",
-                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/taschenlampen/\" title=\"Taschenlampen\">Taschenlampen</a> für jeden Bedarf. Ob für den täglichen Gebrauch oder für Outdoor-Abenteuer, unsere Taschenlampen bieten Ihnen eine starke und zuverlässige Beleuchtung. Wir haben Modelle mit verschiedenen Leuchtstärken, Größen und Funktionen, damit Sie die perfekte Taschenlampe für Ihre Bedürfnisse finden. Unsere Taschenlampen sind langlebig und robust, damit Sie sich auf Ihre Aktivitäten konzentrieren können. Bestellen Sie noch heute Ihre Taschenlampe."
-                    },
-                    {
-                        "title": "Zubehör Elektrolampen",
-                        "text": "Verbessern Sie Ihre Elektrolampen mit unserem breiten Sortiment an Zubehör. Wir bieten Ihnen Ersatzteile, Batterien und Ladegeräte, damit Sie Ihre Elektrolampen immer einsatzbereit halten können. Unsere Zubehörteile sind kompatibel mit den meisten Elektrolampen-Modellen und garantieren eine lange Lebensdauer. Bestellen Sie jetzt Ihr Zubehör für Elektrolampen, um Ihre Beleuchtung auf dem neuesten Stand zu halten."
-                    },
-                    {
-                        "title": "Zubehör Laternen",
-                        "text": "Verbessern Sie Ihre Laternen mit unserem breiten Sortiment an Zubehör. Wir bieten Ihnen Ersatzteile, Kerzen und Brennstoffe, damit Sie Ihre Laterne immer einsatzbereit halten können. Unsere Zubehörteile sind kompatibel mit den meisten Laterne-Modellen und garantieren eine lange Lebensdauer. Bestellen Sie jetzt Ihr Zubehör für Laternen, um Ihre Beleuchtung auf dem neuesten Stand zu halten."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Outdoor Lampen Shop",
-            "metaDescription": "Hier findst du die besten Angebote von den beliebtesten Online Shops. Kaufe jetzt deine Outdoor Lampe und spare Geld. Wir haben die besten Angebote für dich.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Alle Hersteller von Outdoor Lampen auf einen Blick.",
-            "metaDescription": "Du bist auf der Suche nach einem namenhaften Hersteller von Outdoor Lampen? Wir haben hier die besten für dich rausgesucht. Top Qualität. Top Preise. Garantie.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Outdoor Lampe",
-        "defaultMetaDescription": "Wir testen die $PRODUKT vom $HERSTELLER in unserem Outdoor Lampen Test. Hier findest du alle wichtigen Informationen und Erfahrungen.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "outdoor-lampe.de",
+  "hostname": "https://www.outdoor-lampe.de",
+  "email": "outdoor-lampe.de@surrealnetworks.io",
+  "organization": "outdoor-lampe.de",
+  "logoText": "Outdoor Lampen",
+  "title": "Outdoor Lampen",
+  "subline": "Finde die perfekte Outdoor Lampe",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "5637245453",
+    "5637940539",
+    "5637940546"
+  ],
+  "winnerProducts": [
+    "5637853518",
+    "5637945657",
+    "5637894583"
+  ],
+  "featuredCategories": [],
+  "socialMediaAccounts": [
+    {
+      "name": "Twitter",
+      "link": "https://www.twitter.com/outdoor-lampe.de",
+      "iconClass": "fab fa-twitter",
+      "published": false
+    }
+  ],
+  "imageQuality": 90,
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Outdoor Lampe",
+    "featureText": "<p class=\"mb-4\">Outdoor Lampen erhellen vielfältige Einsatzgebiete, wie etwa als Beleuchtung des Zelts oder Camps, als Lichtquelle im Garten oder als Außenbeleuchtung mit Bewegungssensor. Sie sind robust und wetterfest und eignen sich somit auch für den Outdoor-Bereich.</p><p>Schickes Design, innovativ und exklusive Marken.</p>",
+    "index": {
+      "title": "Outdoor Lampen",
+      "metaDescription": "Bei uns findst du eine große Auswahl an qualitativen und leistungsstarken Outdoor Lampen wie Taschenlampen, Stirnlampen oder Laternen zu günstigen Preisen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Outdoor-Lampe",
+            "text": "Outdoor-Lampe ist Ihr Online-Shop für hochwertige Lampen für den Außenbereich. Unser Sortiment umfasst eine breite Auswahl an Laternen und Fackeln, Stirnlampen, Traillampen und Zusatzbeleuchtung, Taschenlampen sowie Zubehör für Elektrolampen und Laternen. Ob Sie auf der Suche nach einer Lampe für den nächsten Campingausflug oder einer Beleuchtung für Ihren Garten sind, bei uns finden Sie garantiert das Richtige. Wir legen großen Wert auf Qualität und Funktionalität unserer Produkte. Unsere Lampen sind robust und langlebig, um auch in anspruchsvollen Umgebungen zu bestehen. Darüber hinaus bieten wir Ihnen eine breite Palette an Stilen und Designs, um Ihren persönlichen Geschmack zu treffen. Bei Outdoor-Lampe haben Sie die Möglichkeit, bequem und einfach von zu Hause aus einzukaufen. Stöbern Sie in Ruhe in unserem Sortiment und finden Sie die perfekte Lampe für Ihre Bedürfnisse. Sollten Sie Fragen zu unseren Produkten haben, steht Ihnen unser freundlicher Kundenservice jederzeit zur Verfügung. Verleihen Sie Ihren Außenbereichen mit einer hochwertigen Outdoor-Lampe eine neue Atmosphäre und bestellen Sie noch heute bei uns. Wir freuen uns darauf, Ihnen weiterhelfen zu dürfen."
+          },
+          {
+            "title": "Laternen und Fackeln",
+            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/laternen-und-fackeln/\" title=\"Laternen und Fackeln\">Laternen und Fackeln</a> für jede Outdoor-Aktivität. Ob Camping, Wandern oder Gartenfeiern, wir haben die richtige Beleuchtung für Sie. Unsere Laternen und Fackeln sind langlebig und robust, damit Sie sich auf Ihr Abenteuer konzentrieren können. Wählen Sie aus verschiedenen Farben, Größen und Designs, um Ihren Bedürfnissen gerecht zu werden. Bestellen Sie noch heute Ihre Outdoor-Lampe."
+          },
+          {
+            "title": "Stirnlampen",
+            "text": "Erleuchten Sie Ihren Weg mit unserer Auswahl an <a href=\"/kategorie/stirnlampen/\" title=\"Stirnlampen\">Stirnlampen</a>. Ob bei Nacht oder bei schlechten Sichtverhältnissen, unsere Stirnlampen bieten Ihnen die Beleuchtung, die Sie benötigen. Wir haben Modelle mit verschiedenen Leuchtstärken und Funktionen, um Ihren Anforderungen gerecht zu werden. Unsere Stirnlampen sind bequem und leicht, sodass Sie sich voll auf Ihre Aktivitäten konzentrieren können. Bestellen Sie jetzt Ihre Stirnlampe."
+          },
+          {
+            "title": "Traillampen und Zusatzbeleuchtung",
+            "text": "Erhöhen Sie Ihre Sichtbarkeit und Sicherheit bei Nacht mit unseren <a href=\"/kategorie/traillampen-und-zusatzbeleuchtung/\" title=\"Traillampen und Zusatzbeleuchtung\">Traillampen und Zusatzbeleuchtung</a>en. Unsere Produkte sind speziell für Outdoor-Aktivitäten wie Radfahren, Wandern oder Joggen entwickelt und bieten Ihnen eine zuverlässige Beleuchtung. Wählen Sie aus verschiedenen Farben, Größen und Funktionen, um Ihren Bedürfnissen gerecht zu werden. Bestellen Sie jetzt Ihre Traillampe und Zusatzbeleuchtung, um Ihre nächste Outdoor-Aktivität sicher zu genießen."
+          },
+          {
+            "title": "Taschenlampen",
+            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/taschenlampen/\" title=\"Taschenlampen\">Taschenlampen</a> für jeden Bedarf. Ob für den täglichen Gebrauch oder für Outdoor-Abenteuer, unsere Taschenlampen bieten Ihnen eine starke und zuverlässige Beleuchtung. Wir haben Modelle mit verschiedenen Leuchtstärken, Größen und Funktionen, damit Sie die perfekte Taschenlampe für Ihre Bedürfnisse finden. Unsere Taschenlampen sind langlebig und robust, damit Sie sich auf Ihre Aktivitäten konzentrieren können. Bestellen Sie noch heute Ihre Taschenlampe."
+          },
+          {
+            "title": "Zubehör Elektrolampen",
+            "text": "Verbessern Sie Ihre Elektrolampen mit unserem breiten Sortiment an Zubehör. Wir bieten Ihnen Ersatzteile, Batterien und Ladegeräte, damit Sie Ihre Elektrolampen immer einsatzbereit halten können. Unsere Zubehörteile sind kompatibel mit den meisten Elektrolampen-Modellen und garantieren eine lange Lebensdauer. Bestellen Sie jetzt Ihr Zubehör für Elektrolampen, um Ihre Beleuchtung auf dem neuesten Stand zu halten."
+          },
+          {
+            "title": "Zubehör Laternen",
+            "text": "Verbessern Sie Ihre Laternen mit unserem breiten Sortiment an Zubehör. Wir bieten Ihnen Ersatzteile, Kerzen und Brennstoffe, damit Sie Ihre Laterne immer einsatzbereit halten können. Unsere Zubehörteile sind kompatibel mit den meisten Laterne-Modellen und garantieren eine lange Lebensdauer. Bestellen Sie jetzt Ihr Zubehör für Laternen, um Ihre Beleuchtung auf dem neuesten Stand zu halten."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE",
-        "defaultMetaDescription": "Entdecken Sie unsere große Auswahl an $KATEGORIE. Top-Marken ✓ Günstige Preise ✓ Kauf auf Rechnung möglich ✓ Kostenlose Retouren.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "outdoor lampe",
-                "slug": "outdoor lampe",
-                "name": "outdoor lampe",
-                "seo": {
-                    "title": "Eine Lampe für deinen Outdoor Trip günstig kaufen",
-                    "metaDescription": "Jetzt stöbern und günstige Preise sichern. Es wartet eine große Auswahl an Produkten auf dich. Kaufe jetzt deine Outdoor Lampe und spare Geld.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
+    "shop": {
+      "title": "Outdoor Lampen Shop",
+      "metaDescription": "Hier findst du die besten Angebote von den beliebtesten Online Shops. Kaufe jetzt deine Outdoor Lampe und spare Geld. Wir haben die besten Angebote für dich.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Stirnlampen, Taschenlampen u.v.m. günstig kaufen von $HERSTELLER",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER. Beste Qualität zum fairen Preis. Vielfältig einsetzbar. Langlebig. Jetzt online bestellen!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "black diamond",
-                "name": "black diamond",
-                "seo": {
-                    "title": "Black Diamond Lampen online kaufen | Spezielle Angebote",
-                    "metaDescription": "Alle Produkte von Black Diamond im Überblick und für jeden Anlass. Bringe Licht ins Dunkle mit den leistungsstarken Stirnlampen und Taschenlampen.",
-                    "robots": "index, follow"
-                }
-            },
-            {
-                "key": "petzl",
-                "name": "petl",
-                "seo": {
-                    "title": "Produkte von Petzl jetzt günstig kaufen",
-                    "metaDescription": "Hier findest du sämtliche Produkte von Petzl. Anbieter für die beste Ausrüstung in der freien Natur. Hochwertig ✓ Schneller Versand ✓ Garantie ✓",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "checklist": [
-        "Angenehm",
-        "Robust",
-        "Innovativ",
-        "Leicht",
-        "Leistungsstark",
-        "Lange Leuchtdauer",
-        "Super Hell",
-        "Hochwertige Verarbeitung"
-    ],
-    "navigationLinks": [
-        {
-            "title": "Home",
-            "linkTo": "/",
-            "linkTitle": "Outdoor-Lampe.de",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Outdoor-Lampe.de - Tasche Online Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "publish": true,
-            "linkTo": "/marken/",
-            "linkTitle": "Outdoor Lampen Hersteller"
-        },
-        {
-            "title": "Kontakt",
-            "linkTitle": "Kontakt aufnehmen",
-            "linkTo": "#kontakt",
-            "publish": false
+    "hersteller": {
+      "title": "Alle Hersteller von Outdoor Lampen auf einen Blick.",
+      "metaDescription": "Du bist auf der Suche nach einem namenhaften Hersteller von Outdoor Lampen? Wir haben hier die besten für dich rausgesucht. Top Qualität. Top Preise. Garantie.",
+      "robots": "index, follow"
+    }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Outdoor Lampe",
+    "defaultMetaDescription": "Wir testen die $PRODUKT vom $HERSTELLER in unserem Outdoor Lampen Test. Hier findest du alle wichtigen Informationen und Erfahrungen.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
         }
+      },
+      {
+        "sku": "5637853518",
+        "seo": {
+          "texts": [
+            {
+              "title": "Goal Zero CRUSH LIGHT Laterne - Eine revolutionäre Outdoor-Beleuchtungslösung",
+              "text": "<p class=\"justify\">Die <strong>Goal Zero CRUSH LIGHT Laterne</strong> ist die ideale Beleuchtungslösung für jeden Outdoor-Liebhaber. Diese innovative Laterne, entwickelt von der renommierten Marke Goal Zero, besticht durch ihre Vielseitigkeit und hohe Funktionalität. Sie ist perfekt für Wanderer, Camper und alle, die gerne Zeit im Freien verbringen oder einfach nur eine praktische und umweltfreundliche Lampe suchen. Mit ihrem einzigartigen Design ist die CRUSH LIGHT Laterne ein echter Hingucker und dank ihrer Top-Bewertungen von zufriedenen Kunden können Sie sich auf ein Qualitätsprodukt verlassen.</p><p class=\"justify\">Die Goal Zero CRUSH LIGHT Laterne bietet unterschiedliche Beleuchtungsmodi, darunter helles Licht, gedimmtes Licht und Flackerlicht, sodass Sie in jeder Situation und bei jeder Aktivität die passende Beleuchtung zur Verfügung haben. Mit einer Laufzeit von bis zu 35 Stunden und einem schnell aufladbaren integrierten Solarpanel können Sie diese Laterne lange nutzen und auf einfache Weise die Energie der Sonne nutzen. Der starke Silikonkörper kann leicht zusammengedrückt werden, um die Laterne auf eine kompakte Größe zu reduzieren, die in jeden Rucksack oder jede Tasche passt. Damit haben Sie immer eine verlässliche Lichtquelle zur Hand.</p><p class=\"justify\">Ein weiteres Highlight der Goal Zero CRUSH LIGHT Laterne ist ihre einfache Handhabung. Diese Laterne ist intuitiv zu bedienen, sodass Sie sie auch im Dunkeln problemlos verwenden können. Das hochwertige Material macht sie zudem sehr robust und langlebig, so dass sie auch bei häufiger Nutzung und unter extremen Bedingungen standhalten kann. Die CRUSH LIGHT Laterne ist ein Muss für jeden, der eine praktische und umweltfreundliche Beleuchtungslösung für Outdoor-Aktivitäten sucht.</p><p class=\"justify\">Mit der Goal Zero CRUSH LIGHT Laterne treffen Sie eine ausgezeichnete Wahl, wenn es um eine verlässliche und nützliche Outdoor-Beleuchtung geht. Steigern Sie das Erlebnis Ihrer Outdoor-Aktivitäten mit dieser innovativen, langlebigen und benutzerfreundlichen Laterne. Die zahlreichen fünf-Sterne-Bewertungen sprechen für sich - verlassen Sie sich auf die hohe Qualität und die herausragenden Eigenschaften der Goal Zero CRUSH LIGHT Laterne.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637945657",
+        "seo": {
+          "texts": [
+            {
+              "title": "Origin Outdoors STURMLATERNE HURRICANE Laterne - olivgrün",
+              "text": "<p class=\"justify\">Die Origin Outdoors STURMLATERNE HURRICANE Laterne ist ein hochwertiges und zuverlässiges Beleuchtungsgerät für Ihre Outdoor-Abenteuer. Diese olivgrüne Laterne der Marke Origin Outdoors bietet eine ausreichende Helligkeit bei minimalem Energieverbrauch, um Ihre Reise ins Freie so angenehm wie möglich zu gestalten.</p><p class=\"justify\">Mit der Kombination aus hochwertigem Material und sorgfältiger Verarbeitung lässt die STURMLATERNE HURRICANE keine Wünsche offen. Die robuste und langlebige Konstruktion bietet Ihnen eine sichere Lichtquelle, ob bei Wind und Wetter oder bei gemütlichen Abenden im Zelt oder am Lagerfeuer. Besonders praktisch ist das kompakte Design, das eine einfache Handhabung und Transport ermöglicht.</p><p class=\"justify\">Die STURMLATERNE HURRICANE ist in verschiedenen Kategorien, wie Start, Ausrüstung, Outdoor-Lampen, Laternen und Fackeln, zu finden und gehört zur Produktlinie STURMLATERNE HURRICANE der Marke Origin Outdoors. Mit der SKU 5637945657 können Sie das Produkt problemlos identifizieren und sich von der Qualität und Leistungsfähigkeit dieser Laterne selbst überzeugen.</p><p class=\"justify\">Diese Laterne hat bereits zahlreiche positive Bewertungen erhalten, denn sie überzeugt durch ihre Qualität und Zuverlässigkeit. Mit einem Preis von 19,95 € und 296 Erfahrungsberichten, die ihr volle fünf Sterne geben, ist die Origin Outdoors STURMLATERNE HURRICANE Laterne definitiv ein hervorragender Begleiter auf Ihren Outdoor-Aktivitäten.</p><p class=\"justify\">Die Origin Outdoors STURMLATERNE HURRICANE Laterne ist eine bewährte Wahl für alle, die Wert auf ein sicheres und langlebiges Beleuchtungssystem legen. Warten Sie nicht länger und genießen Sie die warme Atmosphäre, die diese außergewöhnliche Laterne beim Camping, Wandern oder anderen Outdoor-Aktivitäten schafft.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637894583",
+        "seo": {
+          "texts": [
+            {
+              "title": "Nite Ize RADIANT 314 RECHARGE LANTERN Laterne - Die perfekte Laterne für Outdoor-Abenteuer",
+              "text": "<p class=\"justify\">Die Nite Ize RADIANT 314 RECHARGE LANTERN Laterne, mit der SKU-Nummer 5637894583, ist ein hochwertiges Produkt der Marke Nite Ize, das sich in Kategorien wie Ausrüstung, Outdoor-Lampen, Laternen und Fackeln einordnen lässt. Mit der RADIANT 314 RECHARGE LANTERN erhalten Sie eine vielseitige Laterne, die sich ideal für Ihre nächste Outdoor-Aktivität eignet.</p><p class=\"justify\">Die Nite Ize RADIANT 314 Laterne ist in der Farbe Schwarz erhältlich und zeichnet sich durch ihre hervorragende Qualität, Langlebigkeit und Funktionalität aus. Sie verfügt über eine leistungsstarke, wiederaufladbare Batterie, die eine Laufzeit von bis zu 96 Stunden garantiert, sodass Sie in der Dunkelheit nie wieder auf Licht verzichten müssen. Egal, ob beim Camping, Wandern oder Angeln, diese Laterne ist der perfekte Begleiter für jedes Outdoor-Abenteuer.</p><p class=\"justify\">Die RADIANT 314 RECHARGE LANTERN bietet nicht nur eine hohe Lichtleistung von 314 Lumen, sondern verfügt auch über verschiedene Lichtmodi, die Ihnen die Möglichkeit geben, die Helligkeit individuell an Ihre Bedürfnisse anzupassen. Zudem ist die Laterne mit einer USB-Ausgangsschnittstelle ausgestattet, die es Ihnen ermöglicht, Ihr Smartphone oder andere elektronische Geräte aufzuladen. So bleiben Sie auch unterwegs immer vernetzt und erreichbar.</p><p class=\"justify\">Trotz ihrer kompakten Größe und des geringen Gewichts bietet die Nite Ize RADIANT 314 RECHARGE LANTERN Laterne eine beeindruckende Stabilität und Robustheit, die selbst extremen Witterungsbedingungen standhält. Mit über 300 positiven Bewertungen und 4 Sternen ist dieses Produkt bei Benutzern sehr beliebt und wird in vielen verschiedenen Outdoor-Aktivitäten eingesetzt.</p><p class=\"justify\">Insgesamt ist die Nite Ize RADIANT 314 RECHARGE LANTERN Laterne eine hervorragende Wahl für alle, die auf der Suche nach einer langlebigen, zuverlässigen und effizienten Laterne für ihre Outdoor-Aktivitäten sind. Lassen Sie sich diese Gelegenheit nicht entgehen und entdecken Sie die Vielseitigkeit der RADIANT 314 RECHARGE LANTERN selbst!</p>"
+            }
+          ]
+        }
+      }
     ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE",
+    "defaultMetaDescription": "Entdecken Sie unsere große Auswahl an $KATEGORIE. Top-Marken ✓ Günstige Preise ✓ Kauf auf Rechnung möglich ✓ Kostenlose Retouren.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "outdoor lampe",
+        "slug": "outdoor lampe",
+        "name": "outdoor lampe",
+        "seo": {
+          "title": "Eine Lampe für deinen Outdoor Trip günstig kaufen",
+          "metaDescription": "Jetzt stöbern und günstige Preise sichern. Es wartet eine große Auswahl an Produkten auf dich. Kaufe jetzt deine Outdoor Lampe und spare Geld.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Stirnlampen, Taschenlampen u.v.m. günstig kaufen von $HERSTELLER",
+    "defaultMetaDescription": "Alle Produkte von $HERSTELLER. Beste Qualität zum fairen Preis. Vielfältig einsetzbar. Langlebig. Jetzt online bestellen!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "black diamond",
+        "name": "black diamond",
+        "seo": {
+          "title": "Black Diamond Lampen online kaufen | Spezielle Angebote",
+          "metaDescription": "Alle Produkte von Black Diamond im Überblick und für jeden Anlass. Bringe Licht ins Dunkle mit den leistungsstarken Stirnlampen und Taschenlampen.",
+          "robots": "index, follow"
+        }
+      },
+      {
+        "key": "petzl",
+        "name": "petl",
+        "seo": {
+          "title": "Produkte von Petzl jetzt günstig kaufen",
+          "metaDescription": "Hier findest du sämtliche Produkte von Petzl. Anbieter für die beste Ausrüstung in der freien Natur. Hochwertig ✓ Schneller Versand ✓ Garantie ✓",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "checklist": [
+    "Angenehm",
+    "Robust",
+    "Innovativ",
+    "Leicht",
+    "Leistungsstark",
+    "Lange Leuchtdauer",
+    "Super Hell",
+    "Hochwertige Verarbeitung"
+  ],
+  "navigationLinks": [
+    {
+      "title": "Home",
+      "linkTo": "/",
+      "linkTitle": "Outdoor-Lampe.de",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Outdoor-Lampe.de - Tasche Online Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "publish": true,
+      "linkTo": "/marken/",
+      "linkTitle": "Outdoor Lampen Hersteller"
+    },
+    {
+      "title": "Kontakt",
+      "linkTitle": "Kontakt aufnehmen",
+      "linkTo": "#kontakt",
+      "publish": false
+    }
+  ],
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
